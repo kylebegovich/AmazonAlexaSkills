@@ -1,0 +1,23 @@
+{
+  "intents": [
+
+    {
+      "intent": "ListTeamsIntent"
+    },
+
+    {
+      "intent": "InformAllIntent"
+    },
+
+    {
+      "intent": "InformOneIntent",
+      "slots": [
+        {
+          "name": "Account",
+          "type": "LIST_OF_ACCOUNTS"
+        }
+      ]
+    }
+
+  ]
+}

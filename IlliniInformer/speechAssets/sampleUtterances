@@ -1,0 +1,19 @@
+ListTeamsIntent what accounts do you know
+ListTeamsIntent what accounts are there
+ListTeamsIntent which accounts do you know
+ListTeamsIntent accounts
+ListTeamsIntent list accounts
+ListTeamsIntent illinois accounts
+ListTeamsIntent illini accounts
+
+InformAllIntent update me on all of the accounts
+InformAllIntent get tweets from all accounts
+InformAllIntent inform all
+InformAllIntent inform
+
+InformOneIntent update me on {Account}
+InformOneIntent what's new with {Account}
+InformOneIntent new tweets from {Account}
+InformOneIntent inform {Account}
+InformOneIntent get {Account}
+InformOneIntent {Account}

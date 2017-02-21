@@ -1,10 +1,12 @@
-# Node.js Alexa Skills Kit Samples
+# Kyle's Amazon Alexa Skills
 
 ## Alexa Skills Kit Documentation
 The documentation for the Alexa Skills Kit is available on the [Amazon Apps and Services Developer Portal](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/).
 
 ## Contents
-The included samples represent how to use nodejs AWS Lambda functions as Alexa Skills.
+
+### Samples
+The included samples (not developed by me) represent how to use nodejs AWS Lambda functions as Alexa Skills.
 The following samples are included (ordered by complexity, see the Using Alexa Skills Kit Samples
 link below for more details):
 
@@ -19,8 +21,14 @@ link below for more details):
 - [ScoreKeeper](samples/scoreKeeper) : a skill that can keep score of a game.
 - [ChemistryFlashCards](samples/ChemistryFlashCards) : A skill that quizzes you on chemistry with flash cards.
 
+### Developed Skills
+This skill (my first) is used mostly for proof of concept, but is entertaining to use nevertheless.
+
+- [ComputerScienceFacts] (ComputerScienceFacts) : A skill to give you fun 'facts' about Computer Science
+
+
 ## Usage
-Navigate to the README.md in each sub directory in the samples folder and follow the instructions for getting the sample up and running.
+Navigate to the README.md in each sub directory in the appropriate folder and follow the instructions for getting the sample up and running.
 
 ## Resources
 Here are a few direct links to our documentation:
@@ -29,4 +37,3 @@ Here are a few direct links to our documentation:
 - [Getting Started](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/getting-started-guide)
 - [Invocation Name Guidelines](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/choosing-the-invocation-name-for-an-alexa-skill)
 - [Developing an Alexa Skill as an AWS Lambda Function](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function)
-# AmazonAlexaSkills
